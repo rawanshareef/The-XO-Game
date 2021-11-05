@@ -1,4 +1,4 @@
-# The-XO-Game
+# The :x: :o: Game
 
 
 There are two players, playing in turns.
