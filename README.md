@@ -33,4 +33,10 @@ And after another turn of O in which he chose coordinate 1,3:
 
 ![image](https://user-images.githubusercontent.com/73065095/140583087-9bf577c7-1489-48f6-9e3d-ab81f9bd9ea0.png)
 
+# Example:
+
+:pushpin: Note:
+In the initial mode the whole board will be * and not empty as in the picture
+
+![image](https://user-images.githubusercontent.com/73065095/140583158-24d76441-c1a9-4b3c-b73e-7ec9f3b906a4.png)
 
