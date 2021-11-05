@@ -20,8 +20,17 @@ The coordinates are taken from the players by two numbers from 1 to 3, with comm
 
 Here is an example of the starting board:
 
+ ![image](https://user-images.githubusercontent.com/73065095/140582946-8940d9ec-f908-47ef-9def-c4a515d895ed.png)
+
+
 
 Here is an example of a board after the first turn of X in which it selected coordinate 2,2:
 
+![image](https://user-images.githubusercontent.com/73065095/140583052-639b36ee-e9ba-4db5-8634-fe1bed9df668.png)
+
+
 And after another turn of O in which he chose coordinate 1,3:
+
+![image](https://user-images.githubusercontent.com/73065095/140583087-9bf577c7-1489-48f6-9e3d-ab81f9bd9ea0.png)
+
 
